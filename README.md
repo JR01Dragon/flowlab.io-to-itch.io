@@ -1,7 +1,5 @@
 # Flowlab.io to Itch.io
-### This is a detailed instructions on how to imbed your Flowlab games onto sites like itch.io and Newgrounds.com
-
----
+### This has detailed instructions on how to make your Flowlab.io games playable onto sites like itch.io and Newgrounds.com
 
 > Extract the HowToIndex.zip folder.
 > - Right click the folder

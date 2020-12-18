@@ -1,6 +1,8 @@
 # Flowlab.io to Itch.io
 ### This has detailed instructions on how to make your Flowlab.io games playable onto sites like itch.io and Newgrounds.com
 
+
+`README.txt`
 > Extract the HowToIndex.zip folder.
 > - Right click the folder
 > - click "Extract All..."

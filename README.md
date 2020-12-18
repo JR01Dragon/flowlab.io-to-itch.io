@@ -3,7 +3,7 @@
 
 
 `README.txt`
-> After downloading the `.zip` file.
+> After downloading the `.zip` file from Github.
 
 > Extract the HowToIndex.zip folder.
 > - Right click the folder

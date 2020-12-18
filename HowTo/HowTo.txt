@@ -1,0 +1,12 @@
+How to make a Flowlab game playable on the browser in itch.io/Newgrounds
+
+1. Open "index.txt"
+2. Open a browser and Log into Flowlab and go to "https://flowlab.io/game/list".
+3. Go to the game you want to share and click "Copy Embed Code".
+4. In "index.txt", Delete "[Copy Flowlab Embed Code Here]" and paste the Embed Code in the same place.
+5. Save the txt file and close it.
+6. Right click "index.txt" and click "rename".
+7. Rename "index.txt" to "index.html", this will change the document type.
+8. Drag "index.html" into the "Index" folder.
+9. Right click "Index" folder and go to "Send to" and "Compressed (zipped) folder".
+10.Upload "Index.zip" to itch.io or NewGrounds.com to make your flowlab creation playable in browser.

@@ -3,6 +3,7 @@
 
 
 `README.txt`
+> After downloading the `.zip` file
 > Extract the HowToIndex.zip folder.
 > - Right click the folder
 > - click "Extract All..."

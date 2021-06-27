@@ -1,5 +1,5 @@
 # Flowlab.io to Itch.io
-### This has detailed instructions on how to make your Flowlab.io games playable onto sites like itch.io and Newgrounds.com. Download by going to Releases →
+### This has detailed instructions on how to make your Flowlab.io games playable onto sites like itch.io and Newgrounds.com. Download by going to Releases ⎯⎯⎯⎯>
 
 
 `README.txt`

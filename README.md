@@ -5,15 +5,15 @@
 `README.txt`
 > After downloading the `.zip` file from Github.
 
-> Extract the HowToIndex.zip folder.
+> How to Extract HowToIndex.zip:
 > - Right click the folder
 > - click "Extract All..."
 > - On the pop-up, check the checkbox "Open extracted files when complete"
 > - click "Extract"
-> - Open the "HowTo" Folder
+> - Open the "HowToIndex" Folder
 >
->Follow the steps of instructions in "HowTo.txt" file.
->
->If the file just shows "HowTo", then you need it to show extension names.
+>If the index file just shows "index" instead of "index.txt", then then you need to show extension names:
 > - At the top of the File Explorer, click "View"
 > - Check the Checkbox with "File name extensions"
+>
+> Follow the steps of instructions in "HowTo.txt" file.
